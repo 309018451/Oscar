@@ -1,0 +1,6 @@
+img: val.img.tsv
+label: val.label.tsv
+hw: val.hw.tsv
+labelmap: VG-SGG-dicts-danfeiX-clipped.json
+linelist: val.linelist.tsv
+
